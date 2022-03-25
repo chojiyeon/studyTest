@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/AES256Ciper.jar"/>
+	<classpathentry kind="lib" path="lib/seedx.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on-147.jar"/>
+	<classpathentry kind="lib" path="lib/com.gscaltex-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/http-client-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/http-commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/http-core-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-all-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/kr.co.mcom.packet-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/kr.co.mcom.util-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/enc_aes256-aes256.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Business/01.kr.co.mcom/converse/WebContent/WEB-INF/lib/seedx.jar"/>
+	<classpathentry kind="lib" path="D:/Business/01.kr.co.mcom/test/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Business/01.kr.co.mcom/test/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
